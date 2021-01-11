@@ -12,7 +12,7 @@ First portfolio
 
 ## Licence
 
-[MIT]()
+[MIT](https://github.com/KozoNomamoto/New-Post-by-Python/blob/main/LICENSE)
 
 ## Author
 
